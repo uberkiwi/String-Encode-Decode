@@ -1,0 +1,15 @@
+C:\Users\Joshi Chan\Desktop\build\Encode\StringEncode.exe.config
+C:\Users\Joshi Chan\Desktop\build\Encode\StringEncode.exe
+C:\Users\Joshi Chan\Desktop\build\Encode\StringEncode.pdb
+C:\Users\Joshi Chan\Desktop\build\Encode\StringEncode.xml
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.vbprojResolveAssemblyReference.cache
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.Form1.resources
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.Resources.resources
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.vbproj.GenerateResource.Cache
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.exe
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.xml
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.pdb
+C:\Users\uberk\Desktop\build\Encode\StringEncode.exe.config
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.exe
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.xml
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\StringEncode.pdb

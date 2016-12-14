@@ -1,0 +1,19 @@
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\bin\Debug\Write to text.exe.config
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\bin\Debug\Write to text.exe
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\bin\Debug\Write to text.pdb
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\bin\Debug\Write to text.xml
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write_to_text.Form1.resources
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write_to_text.Resources.resources
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write to text.vbproj.GenerateResource.Cache
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write to text.exe
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write to text.xml
+c:\users\joshi chan\documents\visual studio 2015\Projects\Write to text\Write to text\obj\Debug\Write to text.pdb
+C:\Users\Joshi Chan\Desktop\build\Encode\Write to text.exe.config
+C:\Users\Joshi Chan\Desktop\build\Encode\Write to text.exe
+C:\Users\Joshi Chan\Desktop\build\Encode\Write to text.pdb
+C:\Users\Joshi Chan\Desktop\build\Encode\Write to text.xml
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\Write to text.exe
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\Write to text.xml
+C:\Users\Joshi Chan\Documents\Visual Studio 2015\Projects\String encode\Write to text\obj\Debug\Write to text.pdb
+C:\Users\Joshi Chan\Desktop\build\Encode\StringToEncode.exe.config
+C:\Users\Joshi Chan\Desktop\build\Encode\StringEncode.exe.config
