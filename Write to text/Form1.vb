@@ -25,7 +25,7 @@ Public Class Form1
             Return
         End If
         If (Key.Text = "" Or Key.Text = "Please enter something." Or Key.Text = "Key") Then
-            Entry.Text = "Please enter something."
+            Key.Text = "Please enter something."
             Return
         End If
 
